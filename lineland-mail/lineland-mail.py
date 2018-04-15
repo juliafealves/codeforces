@@ -1,6 +1,7 @@
 # coding: utf-8
 # Author: Júlia Fernandes Alves <juliafealves@gmail.com>
-# Handle: juliafealves - A. Lineland Mail
+# Handle: juliafealves
+# Problem: A. Lineland Mail
 from math import sqrt
 
 
